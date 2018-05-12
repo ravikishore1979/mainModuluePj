@@ -1,3 +1,6 @@
 [submodule "testctpages"]
 	path = testctpages
 	url = https://github.com/ravikishore1979/testctpages.git
+[submodule "proj1/src/apps"]
+	path = proj1/src/apps
+	url = https://github.com/ravikishore1979/apps.git
